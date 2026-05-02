@@ -9,8 +9,8 @@ import os
 # ===============================
 # ⚙️ CONFIG
 # ===============================
-MODEL_PATH = "Models/drink_model.keras"
-CLASS_NAMES_PATH = "Models/class_names.json"
+MODEL_PATH = "models/drink_model.keras"
+CLASS_NAMES_PATH = "models/class_names.json"
 IMG_SIZE = (224, 224)
 CONFIDENCE_THRESHOLD = 0.65  # 🔥 you can adjust this
 

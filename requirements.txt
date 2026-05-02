@@ -1,10 +1,4 @@
-tensorflow
-streamlit
-numpy
-pillow
-scikit-learn
-matplotlib
 streamlit
 tensorflow==2.16.1
-pillow
 numpy
+Pillow
